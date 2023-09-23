@@ -1,0 +1,19 @@
+pip install --upgrade pandas
+pip install spacy
+pip install --upgrade seaborn
+pip install wandb
+pip install transformers
+pip install datasets
+pip install seqeval
+pip install sentencepiece
+pip install PyTorch
+pip install torch torchvision torchaudio
+pip install accelerate -U
+pip install fitz
+pip install frontend
+pip install tools
+pip install --upgrade bottleneck
+pip install fitz
+pip install PyMuPDF
+pip install --upgrade PyMuPDF
+pip install --upgrade fitz
