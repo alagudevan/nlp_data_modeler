@@ -2,7 +2,7 @@ pip install --upgrade pandas
 pip install spacy
 pip install --upgrade seaborn
 pip install wandb
-pip install transformers
+pip install transformers==4.9.2
 pip install datasets
 pip install seqeval
 pip install sentencepiece
